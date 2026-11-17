@@ -1,0 +1,8 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sergio-trivinos-DGN
+/src/backend/database.py      @sergio-trivinos-DGN
+/src/backend/routers/auth.py  @sergio-trivinos-DGN
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sergio-trivinos-DGN
+
